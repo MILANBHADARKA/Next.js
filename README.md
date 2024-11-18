@@ -1,7 +1,7 @@
 # NEXT.js Code Repository
 
 **Description:**  
-This repository contains a curated collection of Next.js code examples and components. It is designed to help developers build scalable and modern web applications efficiently,especially for begineer.
+This repository contains a curated collection of Next.js code examples and components. It is designed to help developers build scalable and modern web applications efficiently,especially for beginner.
 
 ---
 
